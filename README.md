@@ -1,1 +1,1 @@
-hello, first commit
+conflict text
